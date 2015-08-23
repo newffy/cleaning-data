@@ -6,6 +6,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 ## Task
 Prepare tidy data set with the average of each mean or std variable for each activity and each subject
+See **CodeBook.md** for details
 
 ## How to use
 1. Download and unpack dataset
