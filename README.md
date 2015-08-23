@@ -5,7 +5,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 ## Task
-Prepare tidy data set with the average of each mean or std variable for each activity and each subject
+Prepare tidy data set with the average of each mean or std variable for each activity and each subject. 
 See **CodeBook.md** for details
 
 ## How to use
